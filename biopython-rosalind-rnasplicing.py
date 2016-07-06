@@ -1,4 +1,4 @@
-#RNA splicing - Rosalind
+#RNA splicing - Rosalind problem
 
 from Bio import SeqIO
 from Bio.Seq import Seq
